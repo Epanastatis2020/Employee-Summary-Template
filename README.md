@@ -36,9 +36,11 @@ This project uses the MIT license.
 
 ## Images
 
-![html page](#)
+![welcomeScreen](https://user-images.githubusercontent.com/65388616/97145524-71785700-17ba-11eb-9624-37cea6bcaef8.PNG)
 
-![terminal](#)
+![terminal](https://user-images.githubusercontent.com/65388616/97145531-74734780-17ba-11eb-8e4d-9d7f2aaf62ba.PNG)
+
+![html](https://user-images.githubusercontent.com/65388616/97145535-763d0b00-17ba-11eb-8843-7b45ef48a908.PNG)
 
 ## Tests
 
