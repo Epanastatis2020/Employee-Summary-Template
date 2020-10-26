@@ -22,11 +22,10 @@ const init = async () => {
 
         // Start the teamBuilder
         const newTeam = new teamBuilder; 
-        newTeam.addEmployee();
+        await newTeam.addEmployee();
 
         // Render the new team to html and preview it
         const html = render(newTeam.team);
-        console.log(`${html}\n\n`);
 
         // Create team.html
         if (!fs.existsSync(outputPath)) {
