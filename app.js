@@ -1,6 +1,3 @@
-const Manager = require("./lib/Manager");
-const Engineer = require("./lib/Engineer");
-const Intern = require("./lib/Intern");
 const teamBuilder = require("./lib/teamBuilder")
 const { welcomeScreen } = require("./lib/CLI");
 const inquirer = require("inquirer");
